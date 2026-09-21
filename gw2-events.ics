@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MallardDev//GW2 Events//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Guild Wars 2 — Eventos
+X-WR-CALDESC:Festivais, bonus events e outros eventos temporários relevantes de Guild Wars 2.
+
+BEGIN:VEVENT
+UID:gw2-dismount-rush-2026@mallardev
+DTSTAMP:20260921T005100Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20261007
+SUMMARY:[GW2] Dismount Rush Event
+DESCRIPTION:Evento temporário com recompensas bônus por jogar conteúdo anterior às montarias sem utilizar montaria. Datas conforme roadmap oficial da ArenaNet.
+URL:https://www.guildwars2.com/en/news/code-of-creation-concludes-visions-of-eternity-on-september-15/
+CATEGORIES:Guild Wars 2,Bonus Event
+END:VEVENT
+
+BEGIN:VEVENT
+UID:gw2-shadow-of-the-mad-king-2026@mallardev
+DTSTAMP:20260921T005100Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261104
+SUMMARY:[GW2] Shadow of the Mad King — Halloween
+DESCRIPTION:Festival anual de Halloween de Guild Wars 2. Inclui atividades sazonais e recompensas limitadas. Datas conforme roadmap oficial da ArenaNet.
+URL:https://www.guildwars2.com/en/news/code-of-creation-concludes-visions-of-eternity-on-september-15/
+CATEGORIES:Guild Wars 2,Festival,Halloween
+END:VEVENT
+
+BEGIN:VEVENT
+UID:gw2-fractal-incursion-2026@mallardev
+DTSTAMP:20260921T005100Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261202
+SUMMARY:[GW2] Fractal Incursion
+DESCRIPTION:Retorno do Fractal Incursion com novas recompensas. Evento temporário conforme roadmap oficial da ArenaNet.
+URL:https://www.guildwars2.com/en/news/code-of-creation-concludes-visions-of-eternity-on-september-15/
+CATEGORIES:Guild Wars 2,Bonus Event,Fractals
+END:VEVENT
+
+BEGIN:VEVENT
+UID:gw2-extra-life-bonus-2026@mallardev
+DTSTAMP:20260921T005100Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261202
+SUMMARY:[GW2] Extra Life Bonus Event
+DESCRIPTION:Evento anual Extra Life com bônus e atividades no jogo. Datas conforme roadmap oficial da ArenaNet.
+URL:https://www.guildwars2.com/en/news/code-of-creation-concludes-visions-of-eternity-on-september-15/
+CATEGORIES:Guild Wars 2,Bonus Event,Extra Life
+END:VEVENT
+
+BEGIN:VEVENT
+UID:gw2-wvw-new-map-beta-2026@mallardev
+DTSTAMP:20260921T005100Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:[GW2] WvW New Map Beta — início
+DESCRIPTION:Início da beta do novo mapa de WvW. A ArenaNet ainda não informou a data de término no roadmap; este evento marca o início.
+URL:https://www.guildwars2.com/en/news/code-of-creation-concludes-visions-of-eternity-on-september-15/
+CATEGORIES:Guild Wars 2,WvW,Beta
+END:VEVENT
+
+BEGIN:VEVENT
+UID:gw2-extra-life-game-day-2026@mallardev
+DTSTAMP:20260921T005100Z
+DTSTART:20261113T200000Z
+DTEND:20261114T200000Z
+SUMMARY:[GW2] Extra Life Game Day
+DESCRIPTION:Maratona anual de 24 horas da ArenaNet para o Extra Life. Horário: 20:00 UTC de 13/11 até 20:00 UTC de 14/11.
+URL:https://www.guildwars2.com/en/news/code-of-creation-concludes-visions-of-eternity-on-september-15/
+CATEGORIES:Guild Wars 2,Extra Life,Community
+END:VEVENT
+
+BEGIN:VEVENT
+UID:gw2-gnashbash-birthday-2026@mallardev
+DTSTAMP:20260921T005100Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261202
+SUMMARY:[GW2] Gnashbash “Birthday” Celebration
+DESCRIPTION:Evento temporário de aniversário do Gnashbash. Datas conforme roadmap oficial da ArenaNet.
+URL:https://www.guildwars2.com/en/news/code-of-creation-concludes-visions-of-eternity-on-september-15/
+CATEGORIES:Guild Wars 2,Bonus Event,Gnashbash
+END:VEVENT
+
+BEGIN:VEVENT
+UID:gw2-wintersday-2026@mallardev
+DTSTAMP:20260921T005100Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20270106
+SUMMARY:[GW2] Wintersday Festival
+DESCRIPTION:Festival anual de Wintersday de Guild Wars 2. Datas conforme roadmap oficial da ArenaNet.
+URL:https://www.guildwars2.com/en/news/code-of-creation-concludes-visions-of-eternity-on-september-15/
+CATEGORIES:Guild Wars 2,Festival,Wintersday
+END:VEVENT
+
+END:VCALENDAR

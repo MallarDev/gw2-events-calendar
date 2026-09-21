@@ -4,7 +4,7 @@ PRODID:-//MallardDev//GW2 Events//PT-BR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Guild Wars 2 — Eventos
-X-WR-CALDESC:Festivais, bonus events e outros eventos temporários relevantes de Guild Wars 2.
+X-WR-CALDESC:Festivais, bonus events, eventos temporários e promoções relevantes de Guild Wars 2 (utilidades da conta, expansões e Living World).
 
 BEGIN:VEVENT
 UID:gw2-dismount-rush-2026@mallardev

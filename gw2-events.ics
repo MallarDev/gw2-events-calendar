@@ -6,6 +6,29 @@ METHOD:PUBLISH
 X-WR-CALNAME:Guild Wars 2 — Eventos
 X-WR-CALDESC:Festivais, bonus events, eventos temporários e promoções relevantes de Guild Wars 2 (utilidades da conta, expansões e Living World).
 
+
+BEGIN:VEVENT
+UID:gw2-sensational-storage-package-2026-09@mallardev
+DTSTAMP:20260921T115300Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260924
+SUMMARY:[GW2] Sensational Storage Package
+DESCRIPTION:Pacote de utilidades por 1.500 gems contendo Bag Slot Expansion\, Shared Inventory Slot\, 20 Slot Black Lion Satchel\, Bank Tab Expansion e Material Storage Expander. Disponível até 23/09/2026 e limitado a uma compra por conta nesta aparição.
+URL:https://www.guildwars2.com/en/news/stay-cozy-and-warm-with-the-austral-mantle-skin/
+CATEGORIES:Guild Wars 2,Gem Store,Utility,Limited Time
+END:VEVENT
+
+BEGIN:VEVENT
+UID:gw2-bag-slot-sale-2026-09@mallardev
+DTSTAMP:20260921T115300Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20261023
+SUMMARY:[GW2] Bag Slot Expansion — 20% OFF
+DESCRIPTION:Bag Slot Expansions com 20% de desconto na Gem Store até 22/10/2026.
+URL:https://www.guildwars2.com/en/news/get-four-weeks-of-loot-with-the-code-of-creation-supply-drop/
+CATEGORIES:Guild Wars 2,Gem Store,Sale,Utility
+END:VEVENT
+
 BEGIN:VEVENT
 UID:gw2-dismount-rush-2026@mallardev
 DTSTAMP:20260921T005100Z
